@@ -1,0 +1,9 @@
+{
+	"ip":"2.223.144.35",
+	"port": "26036",
+	"name": "Bot Turu",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
